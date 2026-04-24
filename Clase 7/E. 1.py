@@ -2,7 +2,7 @@
 
 estos operadores lo que hacen es permitirnos tomar decisiones en un codigo a partir de las 
 condiciones que queramos ponerles. Los usaría cuando necesite que el codigo tome un camino u otro
-dependiendo de diferentes condiciones.
+dependiendo de las diferentes condiciones que desee ponerle.
 
 
 # explica con tus palabra qué hace while y en qué se diferencia de un for. ¿en qué caso usarías 
